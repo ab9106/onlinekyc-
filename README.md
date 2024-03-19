@@ -1,3 +1,4 @@
+Note:- Plzz use the tabs on navigation bar don`t use next 
 ## Demo Video 📹
 
 
@@ -7,7 +8,6 @@ https://github.com/divyansh1321/OnlineKyc2/assets/104226607/ea0389cd-a789-4e5b-b
 
 
 
-Note:- Plzz use the tabs on navigation bar don`t use next 
 
 
 # My Project
