@@ -8,6 +8,7 @@ const Step1 = ({ onNextStep }) => {
     <div className="step2-container">
       <div className="step2-section">
         <h2 className="step2-title">Step 1: General Details</h2>
+          <h3 className="step2-title">Note:- Plzz use the tabs above on the navigation bar don`t use next button its an protype</h3>
         <p className="step2-description">
           Please fill out the following details:
         </p>
